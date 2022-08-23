@@ -9,4 +9,6 @@
 </ul>
 <br>
 
-<img align="center" src="Screenshot_Git.png" alt="Screenshot Git">
+<p align="center">
+    <img src="Screenshot_Git.png" alt="Screenshot Git">
+</p>
