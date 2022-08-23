@@ -8,4 +8,4 @@
     <li>Melakukan Git Merge untuk menggabungkan 2 branch yang berbeda serta mengatasi Confict yang terjadi saat melakukan merge</li>
 </ul>
 
-<img src="Screenshot_git.png" alt="Screenshot Git">
+<img src="Screenshot_Git.png" alt="Screenshot Git">
