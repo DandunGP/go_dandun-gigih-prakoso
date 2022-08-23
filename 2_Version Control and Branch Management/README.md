@@ -10,5 +10,5 @@
 <br>
 
 <p align="center">
-    <img src="Screenshot_Git.png" alt="Screenshot Git">
+    <img src="screenshots/Screenshot_Git.png" alt="Screenshot Git">
 </p>
