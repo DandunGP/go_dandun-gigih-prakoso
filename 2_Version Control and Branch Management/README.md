@@ -7,5 +7,6 @@
     <li>Melakukan Git Stash untuk menyimpan code sementara yang kemudian di apply setelah melakukan fixing</li>
     <li>Melakukan Git Merge untuk menggabungkan 2 branch yang berbeda serta mengatasi Confict yang terjadi saat melakukan merge</li>
 </ul>
+<br>
 
-<img src="Screenshot_Git.png" alt="Screenshot Git">
+<img align="center" src="Screenshot_Git.png" alt="Screenshot Git">
