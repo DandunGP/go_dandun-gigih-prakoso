@@ -22,7 +22,8 @@
 </p>
 <br>
 <h2>Problem 3 - Install GoLang</h2>
-<p align="center"> Go Version
+<p align="center"> 
+    Go Version<br>
     <img src="screenshots/installGoLang.png" alt="Screenshot Golang Version">
 </p>
 <br>
@@ -32,6 +33,6 @@
 </p>
 <br>
 <p align="center">
-    Output dari "go build main.go"
+    Output dari "go build main.go"<br>
     <img src="screenshots/outputBuild.png" alt="Screenshot Command">
 </p>
