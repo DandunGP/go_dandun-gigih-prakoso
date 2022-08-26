@@ -31,8 +31,3 @@
 <p align="center">
     <img src="screenshots/goRunCommand.png" alt="Screenshot Command">
 </p>
-<br>
-<p align="center">
-    Output dari "go build main.go"<br>
-    <img src="screenshots/outputBuild.png" alt="Screenshot Command">
-</p>
