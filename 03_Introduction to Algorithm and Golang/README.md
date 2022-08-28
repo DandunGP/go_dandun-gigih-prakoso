@@ -24,15 +24,10 @@
 <h2>Problem 3 - Install GoLang</h2>
 <p align="center"> 
     Go Version<br>
-    <img src="screenshots/installGoLang.png" alt="Screenshot Golang Version">
+    <img src="screenshots/InstallGoLang.png" alt="Screenshot Golang Version">
 </p>
 <br>
 <h2>Problem 4 - Hello World!</h2>
 <p align="center">
     <img src="screenshots/goRunCommand.png" alt="Screenshot Command">
-</p>
-<br>
-<p align="center">
-    Output dari "go build main.go"<br>
-    <img src="screenshots/outputBuild.png" alt="Screenshot Command">
 </p>
