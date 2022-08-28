@@ -24,6 +24,7 @@
     <img src="screenshots/problem1_code.png">
     <br>
     Output
+    <br>
     <img src="screenshots/problem1_output.png">
 </p>
 <br>
@@ -32,6 +33,7 @@
     <img src="screenshots/problem2_code.png">
     <br>
     Output
+    <br>
     <img src="screenshots/problem2_output.png">
 </p>
 <br>
@@ -40,6 +42,7 @@
     <img src="screenshots/problem3_code.png">
     <br>
     Output
+    <br>
     <img src="screenshots/problem3_output.png">
 </p>
 <br>
@@ -48,6 +51,7 @@
     <img src="screenshots/problem4_code.png">
     <br>
     Output
+    <br>
     <img src="screenshots/problem4_output.png">
 </p>
 <br>
@@ -56,6 +60,7 @@
     <img src="screenshots/problem5_code.png">
     <br>
     Output
+    <br>
     <img src="screenshots/problem5_output.png">
 </p>
 <br>
@@ -64,6 +69,7 @@
     <img src="screenshots/problem6_code.png">
     <br>
     Output
+    <br>
     <img src="screenshots/problem6_output.png">
 </p>
 <br>
@@ -72,6 +78,7 @@
     <img src="screenshots/problem7_code.png">
     <br>
     Output
+    <br>
     <img src="screenshots/problem7_output.png">
 </p>
 <br>
@@ -80,5 +87,6 @@
     <img src="screenshots/problem8_code.png">
     <br>
     Output
+    <br>
     <img src="screenshots/problem8_output.png">
 </p>
