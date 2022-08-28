@@ -4,29 +4,6 @@ import (
 	"fmt"
 )
 
-/*
-Code 1
-
-	func main() {
-		var studentScore int = -1
-
-		switch {
-		case (studentScore >= 80 && studentScore <= 100):
-			fmt.Println("A")
-		case (studentScore >= 65 && studentScore < 80):
-			fmt.Println("B")
-		case (studentScore >= 50 && studentScore < 65):
-			fmt.Println("C")
-		case (studentScore >= 35 && studentScore < 49):
-			fmt.Println("D")
-		case (studentScore >= 0 && studentScore < 35):
-			fmt.Println("E")
-		default:
-			fmt.Println("Nilai invalid")
-		}
-	}
-*/
-
 func main() {
 	var (
 		nama         string
@@ -59,3 +36,26 @@ func main() {
 		fmt.Println("Nilai invalid")
 	}
 }
+
+/*
+Code 1
+
+	func main() {
+		var studentScore int = -1
+
+		switch {
+		case (studentScore >= 80 && studentScore <= 100):
+			fmt.Println("A")
+		case (studentScore >= 65 && studentScore < 80):
+			fmt.Println("B")
+		case (studentScore >= 50 && studentScore < 65):
+			fmt.Println("C")
+		case (studentScore >= 35 && studentScore < 49):
+			fmt.Println("D")
+		case (studentScore >= 0 && studentScore < 35):
+			fmt.Println("E")
+		default:
+			fmt.Println("Nilai invalid")
+		}
+	}
+*/
