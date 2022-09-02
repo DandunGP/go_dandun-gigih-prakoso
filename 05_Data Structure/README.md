@@ -40,3 +40,12 @@
     <br>
     <img src="screenshots/problem3_output.png">
 </p>
+<br>
+<h2>Challenges Problem 3 - Membuat dengan Time Complexity O(n)</h2>
+<p align="center">
+    <img src="screenshots/challenges_code.png">
+    <br>
+    Output
+    <br>
+    <img src="screenshots/challenges_output.png">
+</p>
