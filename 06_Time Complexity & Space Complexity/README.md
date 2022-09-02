@@ -15,6 +15,7 @@
             <li>Faktorial Time- O(n^2)</li>
             <li>Quadratic Time- O(n^2)</li>
         </ul>
+        <p></p>
     <li>Exponential and Factorial Time </li>
         <p>Terdapat jenis lain dari time complexity seperti factorial time O(n!) dan exponential time O(2^n). Algoritma dengan kompleksitas seperti itu hanya dapat menyelesaikan masalah untuk nilai n yang sangat kecil, karena akan memakan waktu terlalu lama untuk dieksekusi untuk nilai n yang besar.</p>
     <li>Pengertian Space Complexity</li>
