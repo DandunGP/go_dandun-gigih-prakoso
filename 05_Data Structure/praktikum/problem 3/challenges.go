@@ -3,21 +3,15 @@ package main
 import "fmt"
 
 func PairSum(arr []int, target int) []int {
-	var result = []int{}
-	for i := 0; i < len(arr); i++ {
-		for j := 0; j < len(arr); j++ {
-			if arr[i]+arr[j] == target {
-				if i != j {
-					result = append(result, i, j)
-					return result
-				}
-			}
+	temp := make(map[int]int)
+	for i, number := range arr {
+		if key, exist := temp[target-number]; exist {
+			return []int{key, i}
 		}
+		temp[number] = i
 	}
-
-	return result
+	return nil
 }
-
 func main() {
 	fmt.Println(PairSum([]int{1, 2, 3, 4, 6}, 6))
 	fmt.Println(PairSum([]int{2, 5, 9, 11}, 11))
