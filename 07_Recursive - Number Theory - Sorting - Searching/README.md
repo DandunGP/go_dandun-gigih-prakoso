@@ -6,7 +6,7 @@
     <li>Pengertian Recursive</li>
         <p>Recursive keadaan dimana function akan memanggil function itu sendiri untuk menyelesaikan sebuah permasalahan</p>
         <p>Recursive dapat digunakan untuk mempersingkat code dan memudahkan dalam penyelesaian suatu masalah yang sulit</p>
-        <p>Dalam recursive terdapat 2 hal yang harus diperhatikan yaitu base case dan recurrence relations(studi kasus dan hubungan rekursif)</p>>
+        <p>Dalam recursive terdapat 2 hal yang harus diperhatikan yaitu base case dan recurrence relations(studi kasus dan hubungan rekursif)</p>
     <li>Pengertian Number Theory</li>
         <p>Number Theory adalah cabang matematika yang mempelajari tentang bilangan bulat. ada banyak topik di bidang teori bilangan adalah bilangan prima, pembagi persekutuan terbesar, kelipatan persekutuan terkecil, faktorial, faktor prima, dll</p>
     <li>Pengertian Searching dan Sorting</li>
