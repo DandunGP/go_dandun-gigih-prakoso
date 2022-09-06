@@ -1,4 +1,4 @@
-<h1 align="center">Assignment 3 - Basic Programming</h1>
+<h1 align="center">Assignment 6 - Recursive-Number Theory-Sorting-Searching</h1>
 <h2 align="center">Resume Materi</h2>
 <hr>
 
