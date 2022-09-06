@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-func pow(x, n int) int {
-	result := 1
+func pow(x, n uint) uint {
+	var result uint = 1
 	for n >= 1 {
 		result *= x
 		n--
@@ -12,6 +12,7 @@ func pow(x, n int) int {
 }
 
 func main() {
+	fmt.Println(pow(2, 63)) // 8
 	fmt.Println(pow(2, 3))  // 8
 	fmt.Println(pow(5, 3))  // 125
 	fmt.Println(pow(10, 2)) // 100
