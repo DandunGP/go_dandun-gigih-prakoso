@@ -16,7 +16,7 @@
 
 <h2>Problem 1 - Schema Database</h2>
 <p align="center">
-    <img src="screenshots/problem1_ERD.png">
+    <img src="screenshots/problem1_ERD.jpg">
     <br>
 </p>
 
