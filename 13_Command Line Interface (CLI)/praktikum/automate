@@ -1,0 +1,33 @@
+#! /bin/bash
+
+info="$1 $(date +'%a %b %d %T WIB %Y')"
+mkdir "$info"
+cd "$info"
+mkdir about_me
+mkdir my_friends
+mkdir my_system_info
+
+cd about_me
+mkdir personal
+mkdir profesional
+
+cd personal
+touch facebook.txt
+echo "https://www.facebook.com/$2" > facebook.txt
+cd ..
+
+cd profesional
+touch linkedin.txt
+echo "https://www.linkedin.com/in/$3" > linkedin.txt
+cd ../..
+
+cd my_friends
+touch list_of_my_friends.txt
+curl https://gist.githubusercontent.com/tegarimansyah/e91f335753ab2c7fb12815779677e914/raw/94864388379fecee450fde26e3e73bfb2bcda194/list%2520of%2520my%2520friends.txt > list_of_my_friend.txt
+cd ..
+
+cd my_system_info
+touch about_this_laptop.txt
+echo -en "`whoami`\n`uname -a`" > about_this_laptop.txt
+touch internet_connection.txt
+echo `ping www.google.com` > internet_connection.txt
