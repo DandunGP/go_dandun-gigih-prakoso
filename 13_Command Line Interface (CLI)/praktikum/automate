@@ -22,7 +22,6 @@ echo "https://www.linkedin.com/in/$3" > linkedin.txt
 cd ../..
 
 cd my_friends
-touch list_of_my_friends.txt
 curl https://gist.githubusercontent.com/tegarimansyah/e91f335753ab2c7fb12815779677e914/raw/94864388379fecee450fde26e3e73bfb2bcda194/list%2520of%2520my%2520friends.txt > list_of_my_friend.txt
 cd ..
 
