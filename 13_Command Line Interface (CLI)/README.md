@@ -18,7 +18,7 @@
 
 <h2>Problem 1 - Install oh-my-zsh</h2>
 <p align="center">
-    <img src="screenshots/problem_1.jpg">
+    <img src="screenshots/problem_1.png">
     <br>
 </p>
 
