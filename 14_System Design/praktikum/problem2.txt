@@ -1,0 +1,6 @@
+Query
+
+MySQL = SELECT * FROM user;
+Redis = GET user (key) atau HGETALL user
+neo4j = RETURN * (MATCH (u:user) RETURN u;)
+cassandra = SELECT * FROM user;
