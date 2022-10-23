@@ -2,15 +2,15 @@ package calculate
 
 import (
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestAddition(t *testing.T) {
-	if Addition(1, 2) != 3 {
-		t.Error("Expected 1 (+) 2 to equal 3")
-	}
-	if Addition(2, 3) != 5 {
-		t.Error("Expected 2 (+) 3 to equal 5")
-	}
+	result := Addition(1, 2)
+	assert.Equal(t, 3, result, "Result must be 3")
+	result = Addition(2, 3)
+	assert.Equal(t, 5, result, "Result must be 5")
 }
 
 func TestSubtraction(t *testing.T) {

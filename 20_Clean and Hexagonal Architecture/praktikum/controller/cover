@@ -1,0 +1,12 @@
+mode: set
+belajar-go-echo/controller/login.go:17.77,21.2 1 0
+belajar-go-echo/controller/login.go:23.57,28.16 4 0
+belajar-go-echo/controller/login.go:35.2,38.4 1 0
+belajar-go-echo/controller/login.go:28.16,33.3 1 0
+belajar-go-echo/controller/user.go:17.73,21.2 1 1
+belajar-go-echo/controller/user.go:23.60,26.16 3 1
+belajar-go-echo/controller/user.go:29.2,31.4 1 1
+belajar-go-echo/controller/user.go:26.16,28.3 1 1
+belajar-go-echo/controller/user.go:34.59,38.16 4 1
+belajar-go-echo/controller/user.go:41.2,44.4 1 1
+belajar-go-echo/controller/user.go:38.16,40.3 1 1
