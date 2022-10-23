@@ -35,3 +35,8 @@
     <img src="screenshots/7.png">
     <br>
 </p>
+<h2>Exit</h2>
+<p align="center">
+    <img src="screenshots/8.png">
+    <br>
+</p>
