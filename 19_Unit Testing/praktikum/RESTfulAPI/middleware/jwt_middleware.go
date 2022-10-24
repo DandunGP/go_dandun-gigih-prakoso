@@ -4,7 +4,7 @@ import (
 	"testing/RESTfulAPI/constants"
 	"time"
 
-	"github.com/dgrijalva/jwt-go"
+	"github.com/golang-jwt/jwt"
 )
 
 func CreateToken(userId int, name string) (string, error) {

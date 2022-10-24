@@ -4,7 +4,7 @@ import (
 	"belajar-go-echo/constant"
 	"time"
 
-	"github.com/dgrijalva/jwt-go"
+	"github.com/golang-jwt/jwt"
 )
 
 func CreateToken(userId int, email string) (string, error) {
