@@ -4,8 +4,13 @@ go 1.17
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
+<<<<<<< HEAD
 	github.com/labstack/echo v3.3.10+incompatible
 	github.com/labstack/echo/v4 v4.6.3
+=======
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/labstack/echo/v4 v4.9.0
+>>>>>>> 4a6ed0bcedb1d419e911b3191092fcf94e2f91a3
 	github.com/stretchr/testify v1.7.0
 	gorm.io/driver/mysql v1.4.3
 	gorm.io/gorm v1.23.8
@@ -24,7 +29,7 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.1 // indirect
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
-	golang.org/x/net v0.0.0-20210913180222-943fd674d43e // indirect
+	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f // indirect
 	golang.org/x/sys v0.0.0-20211103235746-7861aae1554b // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324 // indirect
