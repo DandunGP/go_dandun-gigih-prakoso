@@ -15,3 +15,25 @@
         <p>e.	Canary deployment strategy : Strategi ini lebih advance dari semua metode release tersebut diatas. Prinsip kerjanya mirip seperti Rollout Deployment, tetapi bedanya, jika pada Rollout Deployment, ketika aplikasi di deploy pada satu server, maka server tersebut akan langsung kebagian request dari user sama rata dengan server lainnya.</p>
 </ul>
 <br>
+<h3 align="center">Membuat EC 2 dan Implementasi Security Group EC2</h3>
+<p align="center">
+    <img src="screenshots/1.png">
+    <br>
+</p>
+<h3 align="center">Melakukan SSH Remote</h3>
+<p align="center">
+    <img src="screenshots/2.png">
+    <br>
+    <img src="screenshots/3.png">
+    <br>
+</p>
+<h3 align="center">Membuat Database (RDS)</h3>
+<p align="center">
+    <img src="screenshots/4.png">
+    <br>
+</p>
+<h3 align="center">Setup Database (RDS)</h3>
+<p align="center">
+    <img src="screenshots/8.png">
+    <br>
+</p>
